@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+
+
+:root{
+    --main-color: red;
+}
+
+
+td{
+    border: 1px solid white;
+    padding: 10px 20px;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+
+.tr-1{
+    background-color: rgb(20, 229, 20);
+    color: white;
+}
+
+.tr-3{
+    background-color: grey;
+    color: black;
+}
+
+.tr-2{
+    background-color: rgb(207, 203, 203);
+}
